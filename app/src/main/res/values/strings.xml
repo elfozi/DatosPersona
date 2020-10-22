@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DatosPersona</string>
+    <string name="campo_nombre">Nombre:</string>
+    <string name="campo_fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="campo_telefono">Telefono:</string>
+    <string name="campo_email">E-Mail:</string>
+    <string name="campo_descripcion_contacto">Descripcion Contacto:</string>
+    <string name="texto_boton_confirmar">Enviar Datos</string>
+    <string name="titulo_confirmar_datos">Confirmar Datos</string>
+    <string name="boton_modificar">Modificar</string>
+
+
+</resources>
